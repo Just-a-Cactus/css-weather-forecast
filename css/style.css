@@ -1,0 +1,19 @@
+*,
+*:before,
+*:after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all .1s ease-in;
+}
+
+html {
+    height: 100%;
+    border: 20px solid rgb(0, 129, 177);
+    background-color: rgb(0, 153, 210)
+}
+
+html,
+body {
+    min-height: 100%;
+}
