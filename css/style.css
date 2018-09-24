@@ -41,6 +41,14 @@ body {
     margin-bottom: 20px;
 }
 
+/* .ba-list li:hover {
+    opacity: 0.4;
+} */
+
+/* .ba-list li:not(:hover) {
+    opacity: 0.4;
+} */
+
 .ba-list p {
     display: inline;
     font-size: 25px;
